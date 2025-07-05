@@ -1,8 +1,6 @@
-HEAD
-
 ## playback-analysis
 Simulated playback analytics project with A/B testing, dashboarding, and ETL pipeline (Python, SQL, Jupyter).
-2777caf8793f722279febfa0065a52dfbd072a58
+
 
 ## Key Objectives
 - Analyze playback session data (buffering start time, device type, completion rate)
@@ -43,7 +41,4 @@ These values allow for controlled experimentation and realistic feature engineer
 ```bash
 pip install -r requirements.txt
 ```
-HEAD
----
----
-2777caf8793f722279febfa0065a52dfbd072a58
+
