@@ -1,0 +1,23 @@
+{
+    "variant_completion": {
+        "A": 0.778,
+        "B": 0.753
+    },
+    "device_distribution": {
+        "Mobile": 31,
+        "TV": 26,
+        "Laptop": 25,
+        "Tablet": 18
+    },
+    "completion_flag_counts": {
+        "Low": 67,
+        "High": 33
+    },
+    "buffering_distribution": {
+        "<1s": 15,
+        "1-2s": 22,
+        "2-3s": 34,
+        "3-4s": 29,
+        ">4s": 0
+    }
+}
