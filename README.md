@@ -1,6 +1,8 @@
-# Playback Pattern Analysis
+HEAD
 
-This project analyzes streaming playback behavior using simulated data to replicate a Netflix-style analytics pipeline. It demonstrates proficiency in SQL, Python, data modeling, and A/B testing.
+## playback-analysis
+Simulated playback analytics project with A/B testing, dashboarding, and ETL pipeline (Python, SQL, Jupyter).
+2777caf8793f722279febfa0065a52dfbd072a58
 
 ## Key Objectives
 - Analyze playback session data (buffering start time, device type, completion rate)
@@ -41,4 +43,7 @@ These values allow for controlled experimentation and realistic feature engineer
 ```bash
 pip install -r requirements.txt
 ```
+HEAD
 ---
+---
+2777caf8793f722279febfa0065a52dfbd072a58
